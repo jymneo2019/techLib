@@ -18,7 +18,6 @@ public class ClockThread extends Thread{
             dc.jlabclock.setText(time);
         }
     }
-    //public start(){
 
     }
 
