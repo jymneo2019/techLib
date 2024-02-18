@@ -8,7 +8,7 @@ import javax.swing.JFrame;
 public class DigitalClock  extends JFrame{
     JLabel jlabclock;
     ClockThread ct;
-    int k=0;
+    int kl=0;
 
     public DigitalClock(){
         jlabclock = new JLabel("");
