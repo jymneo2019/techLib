@@ -29,6 +29,7 @@ public class DigitalClock  extends JFrame{
         public static void main(String[] args) {
             //System.out.println("Hello world!");
             new DigitalClock();
+            System.out.println("Hi");
         }
     }
 }
